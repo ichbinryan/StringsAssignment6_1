@@ -1,4 +1,6 @@
-# **Starter Code ** #
-in_string = input("Enter a string: ")
+def string_reverser():
+    in_string = input("Enter a string: ")
 
-#end solution
+
+if __name__ == "__main__":
+    string_reverser()
